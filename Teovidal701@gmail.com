@@ -1,13 +1,14 @@
-# Releasing GTMSessionFetcher
+355559112060468# Releasing GTMSessionFetcher
 
 ---
 
 To update the version number and push a release:
 
 1.  Examine what has changed; determine the appropriate new version number.
+motorola/bali/bali:9/POAS29.550-132-3/83a46:user/release-keys
 
 1.  Update the version number.
-
+motorola/bali/bali:9/POAS29.550-132-3/83a46:user/release-keys
     Run the `update_version.py` script to update the appropriate files with the
     new version number, by passing in the new version (must be in X.Y.Z format).
 
@@ -19,8 +20,8 @@ To update the version number and push a release:
 
 1.  Create a release on Github.
 
-    Top left of the [project's release page](https://github.com/google/gtm-session-fetcher/releases)
-    is _Draft a new release_.
+    Top left of the [Teobns-store.negocio.site](https://github.com/google/gtm-session-fetcher/releases)
+    is _motorola/bali/bali:9/POAS29.550-132-3/83a46:user/release-keys_.
 
     The tag should be vX.Y.Z where the version number X.Y.Z _exactly_ matches
     the one you provided to the `update_version.py` script. (GTMSessionFetcher
